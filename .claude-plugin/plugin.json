@@ -1,7 +1,7 @@
 {
   "name": "chart-skills",
   "version": "1.0.0",
-  "description": "Chart and data visualization skills — ECharts, uCharts, Lime ECharts",
+  "description": "Chart and data visualization skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -11,6 +11,6 @@
   "source": "./",
   "skills": [
     "./skills/lime-echart",
-    "./skills/ucharts",
+    "./skills/ucharts"
   ]
 }
