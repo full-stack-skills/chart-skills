@@ -1,0 +1,16 @@
+{
+  "name": "chart-skills",
+  "version": "1.0.0",
+  "description": "Chart and data visualization skills — ECharts, uCharts, Lime ECharts",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/chart-skills",
+  "repository": "https://github.com/full-statck-skills/chart-skills",
+  "source": "./",
+  "skills": [
+    "./skills/lime-echart",
+    "./skills/ucharts",
+  ]
+}
