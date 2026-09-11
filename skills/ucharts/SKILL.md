@@ -1,7 +1,7 @@
 ---
 name: ucharts
 description: Provides comprehensive guidance for uCharts chart library including chart types, data formats, chart configuration, and platform support. Use when the user asks about uCharts, needs to create charts, configure chart options, or work with uCharts in applications.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

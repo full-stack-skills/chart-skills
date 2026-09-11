@@ -1,7 +1,7 @@
 ---
 name: lime-echart
 description: Provides comprehensive guidance for Lime ECharts including chart creation, configuration, data visualization, and interactive charts. Use when the user asks about Lime ECharts, needs to create charts, visualize data, or work with ECharts features.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
